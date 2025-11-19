@@ -79,19 +79,31 @@
 
 ## 📊 GitHub Analytics
 
+## 📊 GitHub Analytics
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Foyzullah9988&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foyzullah9988&layout=compact&theme=tokyonight" height="180" />
+  <a href="https://github.com/Foyzullah9988" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api?username=Foyzullah9988&show_icons=true&theme=tokyonight" height="180" />
+  </a>
+  <a href="https://github.com/Foyzullah9988?tab=top-langs" target="_blank">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foyzullah9988&layout=compact&theme=tokyonight" height="180" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foyzullah9988&theme=tokyonight" />
+  <a href="https://github.com/Foyzullah9988" target="_blank">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foyzullah9988&theme=tokyonight" />
+  </a>
 </p>
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Foyzullah9988/Foyzullah9988/main/grid.svg" alt="Svg" />
+  <a href="https://github.com/Foyzullah9988" target="_blank">
+    <img src="https://raw.githubusercontent.com/Foyzullah9988/Foyzullah9988/main/grid.svg" alt="Svg" />
+  </a>
 </p>
+---
+
 ---
 
 
