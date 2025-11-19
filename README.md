@@ -22,6 +22,7 @@
 
 ---
 <p align="center">
+  <!-- Tech Stack Badges -->
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -39,7 +40,8 @@
 - 🎯 Building modern, scalable & user-friendly web apps  
 - 🌱 Always learning new technologies  
 - 🌍 Based in Bangladesh  
-- ⚡ Love working with React, Tailwind, Node, MongoDB, Firebase  
+- ⚡ Love working with React, Tailwind, Node, MongoDB, Firebase
+- 💻 Experienced in deploying apps on Vercel, Netlify, Surge, and Cloudflare 
 
 ---
 
@@ -63,6 +65,14 @@
 ### **Tools & Others**
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman" />
+</p>
+
+### **Deployment Platforms**
+<p>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+  <img src="https://img.shields.io/badge/Surge-FF3C3C?style=for-the-badge&logo=surge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
 </p>
 
 ---
