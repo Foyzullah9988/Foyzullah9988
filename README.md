@@ -1,13 +1,18 @@
 <!-- TOP HEADING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=Welcome+to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" />
+</p>
+
 <h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=5000&pause=800&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Expert;Frontend+%2B+Backend+Engineer;Passionate+Coder+from+Bangladesh" alt="Typing SVG" />
   </a>
-  <br>
-<span style="font-size:36px; font-weight:600; color:#4F8CFF;">Welcome to my GitHub Profile!</span>
 </p>
+
+
+
 
 
 ---
