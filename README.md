@@ -100,6 +100,14 @@
   <a href="https://www.postman.com/" target="_blank" title="Postman">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
+  <!-- Figma -->
+  <a href="https://www.figma.com/" target="_blank" title="Figma">
+    <img src="https://skillicons.dev/icons?i=figma" />
+  </a>
+  <!-- Pixso -->
+  <a href="https://pixso.net/" target="_blank" title="Pixso">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Pixso_logo.png" alt="Pixso" style="width:32px; height:32px;" />
+  </a>
 </p>
 
 ### **Deployment Platforms**
@@ -114,7 +122,7 @@
     <img src="https://skillicons.dev/icons?i=netlify" />
   </a>
   <a href="https://surge.sh/" target="_blank" title="Surge">
-    <img src="https://skillicons.dev/icons?i=surge" />
+    <img src="https://seeklogo.com/images/S/surge-logo-F5D15E8479-seeklogo.com.png" alt="Surge" style="width:32px; height:32px;" />
   </a>
 </p>
 
