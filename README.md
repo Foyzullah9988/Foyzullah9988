@@ -9,7 +9,7 @@
 
 ---
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Foyzullah9988/Foyzullah9988/main/banner1.gif" alt="Banner" />
+  <img src="https://raw.githubusercontent.com/Foyzullah9988/Foyzullah9988/main/banner2.gif" alt="Banner" />
 </p>
 
 ---
