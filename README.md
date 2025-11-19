@@ -65,5 +65,17 @@
 - 🔗 Facebook : https://www.facebook.com/foyzullah.foyzullah.98
 
 ---
+## 🔥 Featured Projects
+
+### 🛒 **E-Commerce MERN App**
+Modern MERN stack ecommerce app with user auth, admin panel & product system.
+
+### 🍔 **Local Food Lovers Network (MERN)**
+Users can share photos, reviews, and explore food around them.
+
+### 📸 **React Photo Gallery (Firebase)**
+Upload, view, paginate & manage images.
+
+---
 
 <p align="center">⚡ Building something amazing every day!</p>
