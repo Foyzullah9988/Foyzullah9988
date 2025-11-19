@@ -8,6 +8,11 @@
 </p>
 
 ---
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Foyzullah9988/Foyzullah9988/main/banner1.gif" alt="Banner" />
+</p>
+
+---
 
 ## 👨‍💻 About Me
 - 🚀 Full-Stack MERN Developer  
