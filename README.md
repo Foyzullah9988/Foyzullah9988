@@ -5,8 +5,8 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=5000&pause=800&center=true&vCenter=true&width=650&lines=Full-Stack+MERN+Developer;React+%7C+Node+%7C+MongoDB+Expert;Frontend+%2B+Backend+Engineer;Passionate+Coder+from+Bangladesh" alt="Typing SVG" />
   </a>
-  <br>
-  <span style="font-size:18px; color:gray;">Welcome to my GitHub Profile!</span>
+  <br><br>
+  <span style="font-size:26px; font-weight:600; color:#4F8CFF;">Welcome to my GitHub Profile!</span>
 </p>
 
 
