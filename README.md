@@ -49,31 +49,75 @@
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML">
+    <img src="https://skillicons.dev/icons?i=html" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS">
+    <img src="https://skillicons.dev/icons?i=css" />
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" title="Tailwind CSS">
+    <img src="https://skillicons.dev/icons?i=tailwind" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://skillicons.dev/icons?i=js" />
+  </a>
+  <a href="https://reactjs.org/" target="_blank" title="React">
+    <img src="https://skillicons.dev/icons?i=react" />
+  </a>
 </p>
 
 ### **Backend**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+  <a href="https://nodejs.org/" target="_blank" title="Node.js">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://expressjs.com/" target="_blank" title="Express">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
 </p>
 
 ### **Database**
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb" />
+  <a href="https://www.mongodb.com/" target="_blank" title="MongoDB">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
 </p>
 
 ### **Tools & Others**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase,vscode,postman" />
+  <a href="https://git-scm.com/" target="_blank" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" />
+  </a>
+  <a href="https://github.com/" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://firebase.google.com/" target="_blank" title="Firebase">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
+  <a href="https://code.visualstudio.com/" target="_blank" title="VS Code">
+    <img src="https://skillicons.dev/icons?i=vscode" />
+  </a>
+  <a href="https://www.postman.com/" target="_blank" title="Postman">
+    <img src="https://skillicons.dev/icons?i=postman" />
+  </a>
 </p>
 
 ### **Deployment Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel" />
-  <img src="https://skillicons.dev/icons?i=cloudflare" />
-  <img src="https://skillicons.dev/icons?i=netlify" />
-  <img src="https://skillicons.dev/icons?i=surge" />
+  <a href="https://vercel.com/" target="_blank" title="Vercel">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+  <a href="https://www.cloudflare.com/" target="_blank" title="Cloudflare">
+    <img src="https://skillicons.dev/icons?i=cloudflare" />
+  </a>
+  <a href="https://www.netlify.com/" target="_blank" title="Netlify">
+    <img src="https://skillicons.dev/icons?i=netlify" />
+  </a>
+  <a href="https://surge.sh/" target="_blank" title="Surge">
+    <img src="https://skillicons.dev/icons?i=surge" />
+  </a>
 </p>
+
 
 ---
 
