@@ -9,7 +9,7 @@
 
 <div align="center">
 <!-- <p align="center"> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=Welcome+to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" />
 <!-- </p> -->
 </div>
 
