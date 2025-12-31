@@ -8,10 +8,12 @@
 </div>
 
 <div align="center">
-to my GitHub profile!
+<!-- <p align="center"> -->
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=Welcome+to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" />
+<!-- </p> -->
 </div>
 
-<h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1>
+<!-- <h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1> -->
 
 <p align="center">
   <a href="https://git.io/typing-svg">
