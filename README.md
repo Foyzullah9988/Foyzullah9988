@@ -161,28 +161,16 @@
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <a href="https://github.com/Foyzullah9988" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api?username=Foyzullah9988&show_icons=true&theme=tokyonight" height="180" />
-  </a>
-  <a href="https://github.com/Foyzullah9988?tab=top-langs" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foyzullah9988&layout=compact&theme=tokyonight" height="180" />
-  </a>
-  <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
+</a>  
 
-<p align="center">
-  <a href="https://github.com/Foyzullah9988" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Foyzullah9988&theme=tokyonight" />
-  </a>
-</p>
 
----
-<p align="center">
-  <a href="https://github.com/Foyzullah9988" target="_blank">
-    <img src="https://raw.githubusercontent.com/Foyzullah9988/Foyzullah9988/main/grid.svg" alt="Svg" />
-  </a>
-</p>
+ (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
+- I write a [blog](https://blog.trnck.dev/)
+
+Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
+- [Kyle Daigle](https://github.com/kdaigle)
 ---
 
 ---
