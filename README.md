@@ -189,6 +189,8 @@
 
 ### 🍔 **Local Food Lovers Network (MERN)**
 Users can share photos, reviews, and explore food around them.
+### 🍔 **Ticket Bari (E Comerce)**
+Users can book tickets ,Vendors can add their ticket.Admin can advertise tickets and handle user or vendor role.Payment system added(Stripe)
 
 
 
