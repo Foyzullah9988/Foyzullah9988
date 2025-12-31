@@ -161,7 +161,7 @@
 
 ## 📊 GitHub Analytics
 
-https://user-images.githubusercontent.com/107488620/183304039-a1fcf05c-0112-493a-9188-778708dc9e8f.png
+<img src="https://user-images.githubusercontent.com/107488620/183304039-a1fcf05c-0112-493a-9188-778708dc9e8f.png" alt="Welcome Text" align="center" />
 ---
 
 
