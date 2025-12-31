@@ -4,12 +4,12 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+<!-- <img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center"> -->
 </div>
 
 <div align="center">
 <!-- <p align="center"> -->
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" align="center" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=Welcome+to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" align="center" />
 <!-- </p> -->
 </div>
 
