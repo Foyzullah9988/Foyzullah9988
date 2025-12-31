@@ -161,13 +161,7 @@
 
 ## 📊 GitHub Analytics
 
-|     Theme      |                            Preview                            |
-| :------------: | :-----------------------------------------------------------: |
-|   `default`    |          ![default](https://i.imgur.com/IaTuYdS.png)          |
-|     `dark`     |           ![dark](https://i.imgur.com/bUrsjlp.png)            |
-| `highcontrast` |       ![highcontrast](https://i.imgur.com/ovrVrTY.png)        |
-|  More themes!  | **🎨 [See a list of all available themes](./docs/themes.md)** |
-
+![GitHub Streak Stats](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark&hide_border=true&border_radius=10&date_format=j M[ Y])
 ---
 
 
