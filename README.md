@@ -139,6 +139,7 @@
   <a href="https://github.com/Foyzullah9988?tab=top-langs" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Foyzullah9988&layout=compact&theme=tokyonight" height="180" />
   </a>
+  <img align="left" src="https://raw.githubusercontent.com/orhun/orhun/refs/heads/master/assets/ratatui-spin-dark.gif#gh-dark-mode-only">
 </p>
 
 <p align="center">
