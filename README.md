@@ -44,6 +44,12 @@
 <a href="">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Vercel">
 </a>
+<a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=Tailwind">
+</a>
+<a href="">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=MongoDB">
+</a>
 </p>
 
 ---
