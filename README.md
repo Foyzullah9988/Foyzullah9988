@@ -168,6 +168,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Foyzullah9988&show_icons=true&theme=dark" />
 </p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Foyzullah9988&cache_seconds=86400)
 
 
 
