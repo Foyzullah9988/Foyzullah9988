@@ -193,5 +193,7 @@ Users can share photos, reviews, and explore food around them.
 
 
 ---
-
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 <p align="center">⚡ Building something amazing every day!</p>
+
