@@ -161,17 +161,12 @@
 
 ## 📊 GitHub Analytics
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=filiptronicek&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" />
-</a>  
-
-
- (also from a project I have contributed to, [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats))
-- I write a [blog](https://blog.trnck.dev/)
-
-Biggest supporters of my OSS work ($25 or more in [my tiers](https://github.com/sponsors/filiptronicek/)):
-- [Kyle Daigle](https://github.com/kdaigle)
----
+|     Theme      |                            Preview                            |
+| :------------: | :-----------------------------------------------------------: |
+|   `default`    |          ![default](https://i.imgur.com/IaTuYdS.png)          |
+|     `dark`     |           ![dark](https://i.imgur.com/bUrsjlp.png)            |
+| `highcontrast` |       ![highcontrast](https://i.imgur.com/ovrVrTY.png)        |
+|  More themes!  | **🎨 [See a list of all available themes](./docs/themes.md)** |
 
 ---
 
