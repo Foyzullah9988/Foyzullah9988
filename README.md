@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-snow.gif" alt="Welcome" align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -13,7 +13,7 @@
 <!-- </p> -->
 </div>
 
-<!-- <h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1> -->
+<h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
