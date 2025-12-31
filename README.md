@@ -1,7 +1,15 @@
 <!-- TOP HEADING -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&width=467&lines=Welcome+to+my+GitHub+Profile&size=33&duration=3000&repeat=false" alt="Welcome Text" />
-</p>
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/fnky/fnky/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
 
 <h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1>
 
