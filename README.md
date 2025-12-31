@@ -161,7 +161,7 @@
 
 ## 📊 GitHub Analytics
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Foyzullah9988&theme=dark&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Foyzullah9988&theme=dark)](https://git.io/streak-stats)
 
 ---
 
