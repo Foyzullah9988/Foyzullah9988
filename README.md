@@ -161,7 +161,8 @@
 
 ## 📊 GitHub Analytics
 
-<img src="https://user-images.githubusercontent.com/107488620/183304039-a1fcf05c-0112-493a-9188-778708dc9e8f.png" alt="Welcome Text" align="center" />
+![GitHub Streak](https://streak-stats.demolab.com?user=Foyzullah9988&theme=dark&hide_border=true)
+
 ---
 
 
