@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-to my personal GitHub profile!
+to my GitHub profile!
 </div>
 
 <h1 align="center">Hi, I'm <span style="color:#4f8cff;">Foyzullah</span> 👋</h1>
